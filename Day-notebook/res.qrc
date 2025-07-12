@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourse/icon_notebook.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>
